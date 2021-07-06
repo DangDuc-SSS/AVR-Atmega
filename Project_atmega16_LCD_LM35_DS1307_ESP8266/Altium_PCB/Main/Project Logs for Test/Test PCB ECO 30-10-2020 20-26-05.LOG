@@ -1,0 +1,65 @@
+Added Component: Designator=C22(CP2/5)
+Added Component: Designator=C?(CN2)
+Added Component: Designator=C?(CN2)
+Added Component: Designator=C?(CN2)
+Added Component: Designator=C?(CN2)
+Added Component: Designator=C?(CN2)
+Added Component: Designator=D?(D1A)
+Added Component: Designator=F?(Fuse)
+Added Component: Designator=IC?(SOT223-4N)
+Added Component: Designator=IC?(QTO-220)
+Added Component: Designator=JDC(DC-IN)
+Added Component: Designator=SW?(SW6)
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=VCC Pin=IC?-3
+Added Pin To Net: NetName=VCC Pin=IC?-3
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=IC?-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=C?-1
+Added Pin To Net: NetName=NetC22_1 Pin=IC?-1
+Added Pin To Net: NetName=NetC22_1 Pin=SW?-5
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=F?-2
+Added Pin To Net: NetName=NetD?_1 Pin=F?-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=SW?-4
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=JDC-1
+Added Net: Name=NetF?_1
+Added Member To Class: ClassName=Test Member=Component C22 Cap Pol3
+Added Member To Class: ClassName=Test Member=Component C? 104
+Added Member To Class: ClassName=Test Member=Component C? 106
+Added Member To Class: ClassName=Test Member=Component C? 106
+Added Member To Class: ClassName=Test Member=Component C? 104
+Added Member To Class: ClassName=Test Member=Component C? 104
+Added Member To Class: ClassName=Test Member=Component C? JP2
+Added Member To Class: ClassName=Test Member=Component C? JP8
+Added Member To Class: ClassName=Test Member=Component C? JP8
+Added Member To Class: ClassName=Test Member=Component C? JP8
+Added Member To Class: ClassName=Test Member=Component C? 22pF
+Added Member To Class: ClassName=Test Member=Component C? 22pF
+Added Member To Class: ClassName=Test Member=Component C? 104
+Added Member To Class: ClassName=Test Member=Component C? JP5
+Added Member To Class: ClassName=Test Member=Component D? 1N4007
+Added Member To Class: ClassName=Test Member=Component F? F1A
+Added Member To Class: ClassName=Test Member=Component IC? LM1117
+Added Member To Class: ClassName=Test Member=Component IC? ATMEL 16L
+Added Member To Class: ClassName=Test Member=Component IR? IR
+Added Member To Class: ClassName=Test Member=Component JDC Jac DC
+Added Member To Class: ClassName=Test Member=Component SW? SW

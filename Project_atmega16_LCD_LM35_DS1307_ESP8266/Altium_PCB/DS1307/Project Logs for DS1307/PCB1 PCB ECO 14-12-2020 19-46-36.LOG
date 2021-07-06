@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=* NewDesignator=1
+Change Component Designator: OldDesignator=* NewDesignator=2
+Added Component: Designator=LED1(LED-3)
+Added Component: Designator=R3(R1/4W)
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Change Net Name : Old Net Name=Net*_1 New Net Name=Net1_1
+Change Net Name : Old Net Name=Net*_2 New Net Name=Net1_2
+Change Net Name : Old Net Name=Net*_3 New Net Name=Net1_3
+Added Pin To Net: NetName=Net1_7 Pin=1-7
+Added Pin To Net: NetName=Net1_7 Pin=LED1-1
+Added Pin To Net: NetName=Net1_7 Pin=R3-1
+Added Net: Name=Net1_7
+Added Member To Class: ClassName=Sheet1 Member=Component 2 JP5
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 LED
+Added Member To Class: ClassName=Sheet1 Member=Component R3 1k
+Added Room: Name=Sheet1

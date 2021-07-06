@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Member From Class: ClassName=Test Member=C2
+Change Component Comment : Designator=D2 Old Comment=1N5408 New Comment=1N5819
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC22_1
+Added Member To Class: ClassName=Test Member=Component C12 JP1
+Added Room: Name=Test

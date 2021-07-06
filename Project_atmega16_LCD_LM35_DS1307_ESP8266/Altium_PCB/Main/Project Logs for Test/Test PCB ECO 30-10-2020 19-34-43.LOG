@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=MOSI Pin=P?-1
+Removed Pin From Net: NetName=VCC Pin=P?-2
+Removed Pin From Net: NetName=GND Pin=P?-4
+Removed Pin From Net: NetName=RESET Pin=P?-5
+Removed Pin From Net: NetName=GND Pin=P?-6
+Removed Pin From Net: NetName=PB7 Pin=P?-7
+Removed Pin From Net: NetName=GND Pin=P?-8
+Removed Pin From Net: NetName=MISO Pin=P?-9
+Removed Pin From Net: NetName=GND Pin=P?-10
+Removed Member From Class: ClassName=Test Member=P?
+Added Component: Designator=HD?(IDC10-BH)
+Added Pin To Net: NetName=MOSI Pin=HD?-1
+Added Pin To Net: NetName=VCC Pin=HD?-2
+Added Pin To Net: NetName=GND Pin=HD?-4
+Added Pin To Net: NetName=RESET Pin=HD?-5
+Added Pin To Net: NetName=GND Pin=HD?-6
+Added Pin To Net: NetName=PB7 Pin=HD?-7
+Added Pin To Net: NetName=GND Pin=HD?-8
+Added Pin To Net: NetName=MISO Pin=HD?-9
+Added Pin To Net: NetName=GND Pin=HD?-10
+Added Member To Class: ClassName=Test Member=Component C? JP8x1-2.0
+Added Member To Class: ClassName=Test Member=Component C? JP8x1-2.0
+Added Member To Class: ClassName=Test Member=Component C? JP8x1-2.0
+Added Member To Class: ClassName=Test Member=Component C? JP8
+Added Member To Class: ClassName=Test Member=Component C? 22pF
+Added Member To Class: ClassName=Test Member=Component C? 22pF
+Added Member To Class: ClassName=Test Member=Component C? 104
+Added Member To Class: ClassName=Test Member=Component C? JP5
+Added Member To Class: ClassName=Test Member=Component C? JP2x1-2.0
+Added Member To Class: ClassName=Test Member=Component HD? IDC 5x2
+Added Member To Class: ClassName=Test Member=Component IR? IR

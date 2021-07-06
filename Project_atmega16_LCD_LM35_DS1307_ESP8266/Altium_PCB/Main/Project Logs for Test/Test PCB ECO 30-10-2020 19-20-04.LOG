@@ -1,0 +1,184 @@
+Added Component: Designator=10k(RES-1/2W)
+Added Component: Designator=C?(CN1)
+Added Component: Designator=C?(CN1)
+Added Component: Designator=C?(CN2)
+Added Component: Designator=C?(JP5-C1T)
+Added Component: Designator=C?(J2-C1T)
+Added Component: Designator=C?(JP8-C1C)
+Added Component: Designator=C?(JP8-C1C)
+Added Component: Designator=C?(JP8-C1C)
+Added Component: Designator=C?(JP8-C1C)
+Added Component: Designator=IC?(DIP40/W0.6)
+Added Component: Designator=IR?(IR)
+Added Component: Designator=IR?(IR)
+Added Component: Designator=LCD?(JP16-C1T)
+Added Component: Designator=P?(MHDR2X5)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=U?(QTO-92)
+Added Component: Designator=VR?(VR)
+Added Component: Designator=X?(XT2)
+Added Pin To Net: NetName=DS Pin=C?-5
+Added Net: Name=DS
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=IC?-11
+Added Pin To Net: NetName=GND Pin=IC?-31
+Added Pin To Net: NetName=GND Pin=IR?-2
+Added Pin To Net: NetName=GND Pin=IR?-2
+Added Pin To Net: NetName=GND Pin=LCD?-1
+Added Pin To Net: NetName=GND Pin=LCD?-16
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-8
+Added Pin To Net: NetName=GND Pin=P?-10
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=VR?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=C?-2
+Added Pin To Net: NetName=MISO Pin=IC?-7
+Added Pin To Net: NetName=MISO Pin=LCD?-13
+Added Pin To Net: NetName=MISO Pin=P?-9
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=C?-3
+Added Pin To Net: NetName=MOSI Pin=IC?-6
+Added Pin To Net: NetName=MOSI Pin=LCD?-12
+Added Pin To Net: NetName=MOSI Pin=P?-1
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetLCD?_3 Pin=LCD?-3
+Added Pin To Net: NetName=NetLCD?_3 Pin=VR?-2
+Added Net: Name=NetLCD?_3
+Added Pin To Net: NetName=PA0 Pin=C?-1
+Added Pin To Net: NetName=PA0 Pin=IC?-40
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=C?-2
+Added Pin To Net: NetName=PA1 Pin=IC?-39
+Added Pin To Net: NetName=PA1 Pin=U?-2
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=C?-3
+Added Pin To Net: NetName=PA2 Pin=IC?-38
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=C?-4
+Added Pin To Net: NetName=PA3 Pin=IC?-37
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=C?-5
+Added Pin To Net: NetName=PA4 Pin=IC?-36
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=C?-6
+Added Pin To Net: NetName=PA5 Pin=IC?-35
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=C?-7
+Added Pin To Net: NetName=PA6 Pin=IC?-34
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=C?-8
+Added Pin To Net: NetName=PA7 Pin=IC?-33
+Added Net: Name=PA7
+Added Pin To Net: NetName=PB0 Pin=C?-8
+Added Pin To Net: NetName=PB0 Pin=IC?-1
+Added Pin To Net: NetName=PB0 Pin=LCD?-4
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=C?-7
+Added Pin To Net: NetName=PB1 Pin=IC?-2
+Added Pin To Net: NetName=PB1 Pin=LCD?-5
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=C?-6
+Added Pin To Net: NetName=PB2 Pin=IC?-3
+Added Pin To Net: NetName=PB2 Pin=LCD?-6
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=C?-5
+Added Pin To Net: NetName=PB3 Pin=IC?-4
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=C?-4
+Added Pin To Net: NetName=PB4 Pin=IC?-5
+Added Pin To Net: NetName=PB4 Pin=LCD?-11
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB7 Pin=C?-1
+Added Pin To Net: NetName=PB7 Pin=IC?-8
+Added Pin To Net: NetName=PB7 Pin=LCD?-14
+Added Pin To Net: NetName=PB7 Pin=P?-7
+Added Net: Name=PB7
+Added Pin To Net: NetName=PC0 Pin=C?-4
+Added Pin To Net: NetName=PC0 Pin=C?-8
+Added Pin To Net: NetName=PC0 Pin=IC?-22
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1 Pin=C?-3
+Added Pin To Net: NetName=PC1 Pin=C?-7
+Added Pin To Net: NetName=PC1 Pin=IC?-23
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC2 Pin=C?-6
+Added Pin To Net: NetName=PC2 Pin=IC?-24
+Added Net: Name=PC2
+Added Pin To Net: NetName=PC3 Pin=C?-5
+Added Pin To Net: NetName=PC3 Pin=IC?-25
+Added Net: Name=PC3
+Added Pin To Net: NetName=PC4 Pin=C?-4
+Added Pin To Net: NetName=PC4 Pin=IC?-26
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC5 Pin=C?-3
+Added Pin To Net: NetName=PC5 Pin=IC?-27
+Added Net: Name=PC5
+Added Pin To Net: NetName=PC6 Pin=C?-2
+Added Pin To Net: NetName=PC6 Pin=IC?-28
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC7 Pin=C?-1
+Added Pin To Net: NetName=PC7 Pin=IC?-29
+Added Net: Name=PC7
+Added Pin To Net: NetName=PD0 Pin=C?-8
+Added Pin To Net: NetName=PD0 Pin=IC?-14
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=C?-7
+Added Pin To Net: NetName=PD1 Pin=IC?-15
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD2 Pin=C?-6
+Added Pin To Net: NetName=PD2 Pin=IC?-16
+Added Pin To Net: NetName=PD2 Pin=IR?-1
+Added Net: Name=PD2
+Added Pin To Net: NetName=PD3 Pin=C?-5
+Added Pin To Net: NetName=PD3 Pin=IC?-17
+Added Pin To Net: NetName=PD3 Pin=IR?-1
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=C?-4
+Added Pin To Net: NetName=PD4 Pin=IC?-18
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=C?-3
+Added Pin To Net: NetName=PD5 Pin=IC?-19
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=C?-2
+Added Pin To Net: NetName=PD6 Pin=IC?-20
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD7 Pin=C?-1
+Added Pin To Net: NetName=PD7 Pin=IC?-21
+Added Net: Name=PD7
+Added Pin To Net: NetName=RESET Pin=10k-2
+Added Pin To Net: NetName=RESET Pin=C?-1
+Added Pin To Net: NetName=RESET Pin=IC?-9
+Added Pin To Net: NetName=RESET Pin=P?-5
+Added Pin To Net: NetName=RESET Pin=SW?-2
+Added Net: Name=RESET
+Added Pin To Net: NetName=VCC Pin=10k-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=IC?-10
+Added Pin To Net: NetName=VCC Pin=IC?-30
+Added Pin To Net: NetName=VCC Pin=IC?-32
+Added Pin To Net: NetName=VCC Pin=IR?-3
+Added Pin To Net: NetName=VCC Pin=IR?-3
+Added Pin To Net: NetName=VCC Pin=LCD?-2
+Added Pin To Net: NetName=VCC Pin=LCD?-15
+Added Pin To Net: NetName=VCC Pin=P?-2
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=VCC Pin=VR?-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=XTAL1 Pin=C?-2
+Added Pin To Net: NetName=XTAL1 Pin=IC?-13
+Added Pin To Net: NetName=XTAL1 Pin=X?-1
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=C?-2
+Added Pin To Net: NetName=XTAL2 Pin=IC?-12
+Added Pin To Net: NetName=XTAL2 Pin=X?-2
+Added Net: Name=XTAL2
+Added Class: Name=Test
+Added Room: Name=Test

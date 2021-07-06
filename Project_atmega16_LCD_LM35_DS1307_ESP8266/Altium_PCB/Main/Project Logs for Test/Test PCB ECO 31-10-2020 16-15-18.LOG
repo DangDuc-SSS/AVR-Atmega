@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=IC1-1
+Removed Pin From Net: NetName=3.3V Pin=IC1-2
+Removed Pin From Net: NetName=VCC Pin=IC1-3
+Removed Member From Class: ClassName=Test Member=IC1
+Added Component: Designator=U2(TO220-123)
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=3.3V Pin=U2-2
+Added Pin To Net: NetName=VCC Pin=U2-3
+Added Member To Class: ClassName=Test Member=Component SW2 SW
+Added Member To Class: ClassName=Test Member=Component U2 LM1117-3.3V

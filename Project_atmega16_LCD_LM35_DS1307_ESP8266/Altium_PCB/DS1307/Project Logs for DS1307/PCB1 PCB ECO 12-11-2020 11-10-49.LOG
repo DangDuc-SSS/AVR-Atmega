@@ -1,0 +1,39 @@
+Added Component: Designator=*(JP5)
+Added Component: Designator=*(DIP8_DS1307)
+Added Component: Designator=BT1(PIN3V)
+Added Component: Designator=IC1(DIP8/W0.3)
+Added Component: Designator=R1(R1/2W)
+Added Component: Designator=R2(R1/2W)
+Added Component: Designator=X1(XT32k)
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=X1-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=X1-1
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=BT1-1
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=R1-2
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=R2-2
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=SCL Pin=*-4
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=*-3
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=*-1
+Added Pin To Net: NetName=VCC Pin=*-8
+Added Pin To Net: NetName=VCC Pin=IC1-8
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

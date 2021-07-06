@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=SW2-1
+Removed Pin From Net: NetName=RESET Pin=SW2-2
+Added Component: Designator=SW2(SW2-DIP)
+Added Pin To Net: NetName=RESET Pin=SW2-2
+Added Pin To Net: NetName=RESET Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
